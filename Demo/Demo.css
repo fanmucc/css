@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font:16px/1.5 '\5b8b\4f53';
+    background-color: #fff2e3;
+}
+li{
+    text-style:none;
+}
+a{
+    text-decoration: none;
+}
+.heard{
+    margin-top: 50px;
+    font-size: 50px;
+}
+.introduce{
+    margin-top: 30px;
+}
+.demo-btns{
+    margin-top: 30px;
+}
+.demo-btns>li{
+    display: inline-block;
+    margin: 0 5px;
+}
+.btn-active{
+    color:#fff;
+    padding: 5px 7px;
+    background: #72b890;
+    border-radius: 3px;
+}
+.btn-active:hover{
+    opacity: 0.4;
+}
+.photo{
+    margin-top: 30px;
+}
+.p{
+    color:#ccc;
+}
